@@ -1,5 +1,3 @@
-Classe Main per for enhanced (foreach) su array
-
 # Classe Main (For Enhanced)
 Questa classe dimostra il ciclo *for enhanced* o (*foreach*), per iterare array/collezioni direttamente sui valori, senza gestire indici.
 
