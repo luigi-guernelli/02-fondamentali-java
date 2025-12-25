@@ -13,9 +13,9 @@ Metodo static: *mostraNumeroPersona()* - Chiamato con *Persona.mostraNumeroPerso
 **Demo:** Crea tre Persona; toString() include ID.
 
 ### Output:
-=== KEYWORD final e static ===
-Nome: Luca Cognome: Rossi || (ID: ID_0)
-Nome: Gennaro Cognome: Esposito || (ID: ID_1)
-Nome: Elisa Cognome: Capelli || (ID: ID_2)
-Numero persone create: 3
-Totale persone create: 3
+=== KEYWORD final e static === <br><br>
+Nome: Luca Cognome: Rossi || (ID: ID_0) <br><br>
+Nome: Gennaro Cognome: Esposito || (ID: ID_1) <br><br>
+Nome: Elisa Cognome: Capelli || (ID: ID_2) <br><br>
+Numero persone create: 3 <br><br>
+Totale persone create: 3 <br><br>
